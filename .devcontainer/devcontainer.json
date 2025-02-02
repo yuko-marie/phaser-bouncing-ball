@@ -1,0 +1,13 @@
+{
+  "name": "Phaser Non-NPM Dev Container with Live Preview and Copilot",
+  "image": "mcr.microsoft.com/vscode/devcontainers/javascript-node:18",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.live-server",
+        "GitHub.copilot",
+        "GitHub.copilot-chat"
+      ]
+    }
+  }
+}
