@@ -13,7 +13,7 @@ You're all set to preview your game!
 
 ## GitHub Copilot
 
-When you have things set up, it's time to install **GitHub Copilot** and **GitHub Copilot Chat** to get some AI asssitance.
+When you have things set up, it's time to install **GitHub Copilot** and **GitHub Copilot Chat** to get some AI assistance.
 
 1. Click on the Extensions icon in the sidebar (or press `Ctrl+Shift+X` on Windows/Linux or `Cmd+Shift+X` on macOS).
 2. In the search bar at the top, type `GitHub Copilot` and press Enter.
